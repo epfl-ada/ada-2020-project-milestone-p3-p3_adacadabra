@@ -1,3 +1,8 @@
+Mateo Chapatte
+Guillaume Vray
+Guillaume Parchet 
+
+We propose an additional research questions that can be answered with the dataset used in the paper:
 
 1)Title
 
