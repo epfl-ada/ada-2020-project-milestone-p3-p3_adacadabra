@@ -23,3 +23,32 @@ A list of internal milestones up until project milestone P4. Add here a sketch o
 
 6)Questions for TAs (optional)
 Add here any questions you have for us related to the proposed project.
+
+
+
+ 1. Title:
+ Impact of wealth on eating habits
+ 
+ 2. Abstract:
+ (attention 150 mots c'est quand meme bcp ^^)
+ 
+ 3. Research questions:
+ Are there significant correlations between food habits and wealth ? 
+ 
+ More precisely we will try to answer some of the following hypothesis:
+  - Are there correlations between lower revenue ward populations and the amount of soft drinks, sweets and ready-made food products.
+  - Is the amount of certain nutricients (like saturated fats, free sugars, fibers) significatively different in certain ward populations.
+(  - Is food entropy a relevant factor of wealth ? )
+  
+ 
+ These questions might help us to bring an element of answer to the question "Do wealthier ward areas buy food that could be judged healthier ?"
+ 
+ 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
