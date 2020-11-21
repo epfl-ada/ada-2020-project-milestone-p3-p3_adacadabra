@@ -14,7 +14,7 @@ Impact of wealth on eating habits in Greater London
  
 3. Research questions:
 
-Are there significant correlations between food habits and wealth in Greater London ? 
+Are there significant correlations between eating habits and wealth in Greater London ? 
  
 More precisely we will try to answer some of the following hypothesis:
   - Are there correlations between lower revenue ward populations and the amount of soft drinks, sweets and ready-made food products.
