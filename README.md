@@ -6,15 +6,15 @@ We chose to propose an additional research questions that can be answered using 
 
 1. Title:
 
- Impact of wealth on eating habits in Greater London
+Impact of wealth on eating habits in Greater London
 
 2. Abstract:
 
- **TODO**
+**TODO**
  
 3. Research questions:
 
- Are there significant correlations between food habits and wealth in Greater London ? 
+Are there significant correlations between food habits and wealth in Greater London ? 
  
 More precisely we will try to answer some of the following hypothesis:
   - Are there correlations between lower revenue ward populations and the amount of soft drinks, sweets and ready-made food products.
