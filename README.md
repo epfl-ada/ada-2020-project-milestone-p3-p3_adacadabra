@@ -5,12 +5,15 @@ Guillaume Parchet
 We chose to propose an additional research questions that can be answered using the dataset used in the paper.
 
 1. Title:
+
  Impact of wealth on eating habits in Greater London
 
 2. Abstract:
+
  **TODO**
  
 3. Research questions:
+
  Are there significant correlations between food habits and wealth in Greater London ? 
  
 More precisely we will try to answer some of the following hypothesis:
@@ -27,12 +30,13 @@ These hypothesis might help us to bring elements of answer to the more general q
 The main advantage of these two datasets is that they are both indexed by the same wardsIDs, making the merging task much easier. The two datasets can be found online (see the refered linked above) and come from credible sources (replication of Tesco paper was succesful and the second dataset contain official statistics). The two datasets are pretty small in size (1537Ko and  830Ko respectively), they contain **X** and **Y** datapoints (number of wards) each and **Z** column informations (**TODO, check numbers**), they have standard comma separated values format. We will only use a few of the columns contained in ward profile (probably 'Employement Rate', 'Median House price', Median Household income estimate' and other wealth estimates). 
  
 5. Methods:
+
 The main methods we might use are:
  - Linear regression
  - K-means (unsupervised Machine Learning)
  - Cross-validation (on K-means)
  - Statistical tests (statmodels)
- - (**TODO* : others ? Ca serait pas mal d'en trouver d'autres)
+ - **(TODO : others ? Ca serait pas mal d'en trouver d'autres)**
  
 6. Organization within the team:
 In order to answer our different hypothesis we will probably follow the following procedure:
@@ -44,8 +48,7 @@ In order to answer our different hypothesis we will probably follow the followin
  - Create a short video summarizing our approach and findings
  
 7. Questions for TAs:
-( **Questions ?** )
- - Our work requires more statistical effort (like statmodels) rather than heavy Machine Learning methods, is it a problem ? (TO REMOVE ? vous en pensez quoi ?)
+ - Our work requires more statistical effort (like statmodels) rather than heavy Machine Learning methods, is it a problem ? **(TO REMOVE ? vous en pensez quoi ?)**
  
  
  
