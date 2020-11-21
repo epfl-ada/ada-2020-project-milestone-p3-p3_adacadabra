@@ -34,13 +34,15 @@ The main advantage of these two datasets is that they are both indexed by the sa
 The main methods we might use are:
  - Linear regression
  - K-means (unsupervised Machine Learning)
+ - Principal Component Analysis
  - Cross-validation (on K-means)
  - Statistical tests (statmodels)
- - **(TODO : others ? Ca serait pas mal d'en trouver d'autres)**
+ - **(TODO : others ? Ca serait pas mal d'en trouver d'autres) - pas besoin de rajouter pour rajouter**
  
 6. Organization within the team:
 In order to answer our different hypothesis we will probably follow the following procedure:
  - Import the different datasets and apply cleaning methods if required
+ - Compute new features from data if relevant (food entropy ?)
  - Find an estimate of the wealth level of each ward
  - Categorize these wealth levels into clusters (probably using K-means)
  - Study the different food informations at each ward level (mainly nutrients, food category, entropy)
@@ -48,7 +50,7 @@ In order to answer our different hypothesis we will probably follow the followin
  - Create a short video summarizing our approach and findings
  
 7. Questions for TAs:
- - Our work requires more statistical effort (like statmodels) rather than heavy Machine Learning methods, is it a problem ? **(TO REMOVE ? vous en pensez quoi ?)**
+ - Our work requires more statistical effort (like statmodels) rather than heavy Machine Learning methods, is it a problem ? **(TO REMOVE ? vous en pensez quoi ?) - On peut laisser on a rien à perdre**
  
  
  
