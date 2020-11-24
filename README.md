@@ -16,8 +16,8 @@ Impact of wealth on eating habits in Greater London
 
 Are there significant correlations between eating habits and wealth in Greater London ?
 EDIT: 
-1) In Greater London, are there evidences of social class difference in eating habits at ward level ?
-2) What are the nutrients explaining those differencies if any ?
+1) In Greater London, are there differences in eating habits at ward level ?
+2) Is there evidence of social class difference in eating habits ?
 3) Do wealthier ward areas buy food that could be judged healthier ?
  
 More precisely we will try to answer some of the following hypothesis:
@@ -42,7 +42,6 @@ The main methods we might use are:
  - Logistic regression
  - K-means
  - Principal Component Analysis  On what ??
- - Cross-validation (on K-means) Nope
  - Statistical tests (statmodels)
  - **(TODO : others ? Ca serait pas mal d'en trouver d'autres) - pas besoin de rajouter pour rajouter**
  
@@ -57,14 +56,20 @@ In order to answer our different hypothesis we will probably follow the followin
  - Create a short video summarizing our approach and findings
 
 EDIT:
+1) Data preparation
  - Import the different datasets and apply cleaning methods if required
  - Keep the 80% most representative wards (representativeness > 0.1)
  - Compute a ward population class label using K-means on wealth markers
- - Visualize eating habits with T-sne using f_aliments or f_nutrients features and hypothetize about first question (BONUS)
- - Analyse if there are significant difference distribution of nutrients within each population class
- - Use logistic regression to see if eating habits explain the population class and what influence
- - Compute a wealthy feature (might be just the entropy or based on sugar consumption, to discuss...)
- - See if wealth is correlated with health with statistical tests
+2) Visualization of eating habits at ward level
+ - Visualize eating habits with T-sne using f_aliments and f_nutrients features and answer first question
+ - Visualize fraction of each nutrient at ward level on a london map using plotly, geopandas
+ - Compare the last visualization with a class visualization using the wealth markers and the class label
+ - Hypothetize about question 2 and 3.
+3) Verify the hypotheses
+ - Within each class, compare distribution of nutrient fraction and entropy and make statistical tests
+ - Use logistic regression to predict classes with nutrients and entropy and observe if there are significant relations
+ - Analyse if there are significant difference distribution of nutrients within each population class with our results
+ - Observe if fats and sugars fractions are more important in lower class population. Make same observations for protein, fibre and entropy
  
  
 7. Questions for TAs:
