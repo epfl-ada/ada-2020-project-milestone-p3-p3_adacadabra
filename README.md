@@ -2,7 +2,7 @@ Authors: Mateo Chapatte, Guillaume Vray, Guillaume Parchet
 
 ## Introduction to the Tesco paper:
 
-The paper presents the Tesco Grocery 1.0 dataset: a record of 420 M food items purchased by 1.6 M fidelity card owners who shopped at the 411 Tesco stores in Greater London over the course of the entire year of 2015, aggregated at multiple levels of census areas to preserve anonymity.
+The paper presents the Tesco Grocery 1.0 dataset: a record of 420 M food items purchased by 1.6 M fidelity card owners who shopped at the 411 Tesco stores in Greater London over the course of the entire year of 2015. The data is aggregated at multiple levels of census areas (borough, ward, MSOA, LSOA) to preserve anonymity.
 
 The paper then describes the derivations of mutiple food characteritics (associated to each area) that mainly concern the ernergy, weight, type and entropy of the bought products.
 
