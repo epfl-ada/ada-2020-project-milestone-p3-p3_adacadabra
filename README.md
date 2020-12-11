@@ -1,5 +1,14 @@
 Authors: Mateo Chapatte, Guillaume Vray, Guillaume Parchet
 
+## Introduction to the Tesco paper:
+
+The paper presents the Tesco Grocery 1.0 dataset: a record of 420 M food items purchased by 1.6 M fidelity card owners who shopped at the 411 Tesco stores in Greater London over the course of the entire year of 2015, aggregated at multiple levels of census areas to preserve anonymity.
+
+The paper then describes the derivations of mutiple food characteritics (associated to each area) that mainly concern the ernergy, weight, type and entropy of the bought products.
+
+The paper then aims to establish the validity of the dataset. To do so it compare food purchase volumes to population from census to assess representativeness and match nutrient and energy intake to official statistics of food-related illnesses.
+
+
 ## For our technical extension we chose to propose an additional research questions that can be answered using the dataset used in the paper.
 
 ### I. Title:
@@ -8,7 +17,7 @@ Impact of wealth on eating habits in Greater London
 
 ### II. Abstract:
 
-While the paper validates its dataset in representativeness and ecologically, we propose to use it in order to study the impact of wealth on eating habits in Greater London at MSOA level in 2015 and see if there are inequalities. We use official geographically-salient MSOA indicators which can be found in the official London site to associate each MSOA a wealth indicator (based on the median household income estimate). We represent eating habits by the consumed fraction of each nutrient & food category as well as their entropy. We observe the distribution differences using low dimensional visualization methods and geographic heatmaps. Then we study whether those differences are closely related to social class difference with comparative plots [TODO-remove?]and logistic regression. Using these results, we observe if certain nutrients and food categories are more related to a class than another and conclude whether or not there is a relationship between wealth and healthier food habits.
+While the Tesco paper validates its dataset in representativeness and ecologically, we propose to use it in order to study the impact of wealth on eating habits in Greater London at MSOA level in 2015 and see if there are inequalities. We use official geographically-salient MSOA indicators which can be found in the official London site to associate each MSOA a wealth indicator (based on the median household income estimate). We represent eating habits by the consumed fraction of each nutrient & food category as well as their entropy. We observe the distribution differences using low dimensional visualization methods and geographic heatmaps. Then we study whether those differences are closely related to social class difference with comparative plots [TODO-remove?]and logistic regression. Using these results, we observe if certain nutrients and food categories are more related to a class than another and conclude whether or not there is a relationship between wealth and healthier food habits.
  
 ### III. Research questions:
 
