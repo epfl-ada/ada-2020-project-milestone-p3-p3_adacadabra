@@ -17,12 +17,12 @@ Impact of wealth on eating habits in Greater London
 
 ### II. Abstract:
 
-While the Tesco paper validates its dataset in representativeness and ecologically, we propose to use it in order to study the impact of wealth on eating habits in Greater London at MSOA level in 2015 and see if there are inequalities. We use official geographically-salient MSOA indicators which can be found in the official London site to associate each MSOA a wealth indicator (based on the median household income estimate). We represent eating habits by the consumed fraction of each nutrient & food category as well as their entropy. We observe the distribution differences using low dimensional visualization methods and geographic heatmaps. Then we study whether those differences are closely related to social class difference with comparative plots [TODO-remove?]and logistic regression. Using these results, we observe if certain nutrients and food categories are more related to a class than another and conclude whether or not there is a relationship between wealth and healthier food habits.
+While the Tesco paper validates its dataset in representativeness and ecologically, we propose to use it in order to study the impact of wealth on eating habits in Greater London at MSOA level in 2015 and see if there are inequalities. We use official geographically-salient MSOA indicators which can be found in the official London site to associate each MSOA a wealth indicator (based on the median household income estimate). We represent eating habits by the consumed fraction of each nutrient & food category as well as their entropy. We observe the distribution differences using low dimensional visualization methods and geographic heatmaps. Then we study whether those differences are closely related to social class difference with comparative plots and logistic regression. Using these results, we observe if certain nutrients and food categories are more related to a class than another and conclude whether or not there is a relationship between wealth and healthier food habits.
  
 ### III. Research questions:
 
 1) At MSOA level in Greater London, are there major differences in eating habits depending on the wealth level?
-2) Is there evidence of social class difference in eating habits?  [TODO-> on repond à ca ?]
+2) Is there evidence of social class difference in eating habits?
 3) Do wealthier MSOA areas buy food that could be judged healthier?
  
 These hypothesis might help us to bring elements of answer to the more general question: "Do wealthier MSOA areas buy healthier food?"
@@ -37,7 +37,7 @@ The main advantage of these two datasets is that they are both indexed by the sa
 The main methods we might use are:
  - K-means
  - T-sne visualization
- - Logistic regression (ols) [TODO: remove?]
+ - Logistic regression
  - Spearman correlation
  - Statistical tests (statmodels)
  
@@ -58,7 +58,7 @@ The main methods we might use are:
 #### 3) Verify the hypotheses
  - Within each class, compare distribution of nutrient fraction and entropy using histograms plots
  - Analyse if there are significant difference distribution of nutrients / food categories within each population class using statistical tests (Spearman)
- - Use logistic regression to predict classes with nutrients and entropy and observe if there are significant relations [TODO: to remove ?]
+ - Use logistic regression to predict high or low wealth using nutrients and entropy ; then observe if there are significant relations
  - Interpret the results to observe if in general "healthy" food habits can be correlated with wealth level
 
 #### 4) Share the results of the study
