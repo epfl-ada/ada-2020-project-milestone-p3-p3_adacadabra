@@ -61,7 +61,7 @@ The main methods we might use are:
  - Interpret the results to observe if in general "healthy" food habits can be correlated with wealth level
 
 #### 4) Share the results of the study
- - Create a [short video](https://www.youtube.com/) pitching our technical extension
+ - Create a [short video](https://youtu.be/P-O71u-tYB8) pitching our technical extension
  - Create a [data story](https://chapattemateo.github.io/ADACADABRA/) to visualize and understand the results easily
  
 #### 5) Additional information:
