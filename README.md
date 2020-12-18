@@ -67,5 +67,5 @@ The main methods we might use are:
 #### 5) Additional information:
 Here is an approximate list of each member's participation to the tasks:
  - Mateo Chapatte: heatmap visu, histogram plots, website setup, importing and reworking the graphs into the story, shoot and edit the video
- - Guillaume Parchet: data preparation, k-means clustering, spearman correlations, writing data story, new README
- - Guillaume Vray: goepandas (map usage) & London choropleth map, statistics on wealth classes, piechart visu, logistic regression, writing website
+ - Guillaume Parchet: data preparation, k-means clustering, spearman correlations, interpretation of the results, writing data story, new README
+ - Guillaume Vray: goepandas & London choropleth map, statistics on wealth classes, piechart visu, logistic regression, writing data story
